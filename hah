@@ -1,0 +1,21 @@
+<style>
+        *{margin:0;padding:0;}
+        .banner{position:relative;width:90%;margin:0 auto;
+        }
+        .banner img{width:100%;}
+        .heading{color:red;position:absolute;top:50%;width:100%;}
+    </style>
+<div class="Home">
+    <div class="About">
+        <div class="All Products"></div>
+    </div>
+    <div style="margin:0px;padding:0px;">
+        <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">All Products</a></li>'
+        </ul>
+    </div>
+    <img class="image1" src="F:\Prathyusha\java lab\tcs\pngtree-3d-green-background-image_285604.jpg" style="width:1800px;margin-top:0">
+    
+
